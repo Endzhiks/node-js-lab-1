@@ -1,8 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
 
-const a = 322;
-console.log(a);
 function App() {
   return (
     <div className="App">
